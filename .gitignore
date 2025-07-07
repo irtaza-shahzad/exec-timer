@@ -1,0 +1,9 @@
+# Ignore build files
+timeout
+*.o
+
+# Ignore command output
+output.txt
+
+# VSCode project settings (optional)
+.vscode/
